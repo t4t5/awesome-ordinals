@@ -116,6 +116,7 @@
 - [UniSat](https://unisat.io/download)
 - [OrdinalSafe](https://ordinalsafe.xyz)
 - [XDEFI Wallet](https://www.xdefi.io/)
+- [Earth Wallet](https://earthwallet.io)
 
 ### Other
 
